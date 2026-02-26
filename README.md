@@ -55,7 +55,7 @@ A **Virtual Private Network (VPN)** creates a secure, encrypted connection betwe
 1. **Check IP Before VPN**  
    - Visited [whatismyip.com](https://whatismyip.com).  
    - Recorded original IP.  
-   ![Where is my IP](whereismyip.png)
+   ![Where is my IP](whatismyip.png)
 
 2. **Enable VPN & Verify IP**  
    - Switched VPN on.  
